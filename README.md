@@ -1,4 +1,4 @@
-# gomycode_ydata_profiling_checkpoint
+# Gomycode_ydata_profiling_checkpoint
 
 This repository highlights the checkpoint for the ydata_profiling in the Gomycode Learn Platform. The dataset is for practicing purposes only and the repository is for anyone interested in knowing how the ydata_profiling library works to generate reports of your dataset and the instructors of the bootcamp for grading purposes.
 
